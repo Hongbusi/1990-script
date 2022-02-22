@@ -1,5 +1,7 @@
 # 1990-script
 
+Forked from [antfu/1990-script](https://github.com/antfu/1990-script).
+
 Make your GitHub history back to 1990.
 
 ## Travel Back
